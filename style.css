@@ -16,7 +16,7 @@ body
     justify-content: center;
     align-items: center;
     min-height: 0vh;
-    background-image: url(galexy.gif);
+    background-image: url(img/galexy.gif);
     /* background-color: #f3f3f3; */
 }
 a
