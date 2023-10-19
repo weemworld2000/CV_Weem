@@ -297,6 +297,6 @@ font-size: 2em;
         transform: translateX(-100%);
     }
     100% {
-        transform: translateX(100%);
+        transform: translateX(5%);
     }
 }
