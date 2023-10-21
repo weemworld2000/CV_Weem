@@ -300,3 +300,7 @@ font-size: 2em;
         transform: translateX(-1%);
     }
 }
+.share
+{
+    text-align: center;
+}
